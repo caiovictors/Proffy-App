@@ -1,3 +1,4 @@
+<h1 align="center">Proffy</h1>
 <h4 align="center">
 <img src="./web/src/assets/images/landing.svg" align="center"/>
 <br><br>
