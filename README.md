@@ -71,11 +71,11 @@ $ npm start
 # :iphone: Imagens do App Mobile
 
 <p align="center">
-  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Proffy_imgs/mobile_home.jpg" alt="Mobile Home Page" width="280">
+  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Proffy_imgs/mobile_home.jpg" alt="Mobile Home Page" width="270">
 
-  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Proffy_imgs/mobile_busca.jpg" alt="Mobile Busca" width="280">
+  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Proffy_imgs/mobile_busca.jpg" alt="Mobile Busca" width="270">
 
-  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Proffy_imgs/mobile_aula.jpg" alt="Mobile dar aulas" width="280">
+  <img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Proffy_imgs/mobile_aula.jpg" alt="Mobile dar aulas" width="270">
 </p>
  
  # 💻 Tecnologias
