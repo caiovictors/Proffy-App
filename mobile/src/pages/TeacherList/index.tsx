@@ -68,7 +68,7 @@ function TeacherList() {
                 {isFiltersVisible && (
                     <View style={styles.searchForm}>
                         <Text style={styles.label}>Matéria</Text>
-                        <TextInput style={styles.input} value={subject} onChangeText={text => setSubject(text)} placeholder="Qual a matéria" placeholderTextColor="#c1bccc"/>
+                        <TextInput style={styles.input} value={subject} onChangeText={text => setSubject(text)} placeholder="Qual a matéria?" placeholderTextColor="#c1bccc"/>
 
                         <View style={styles.inputGroup}>
                             <View style={styles.inputBlock}>
